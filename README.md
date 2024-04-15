@@ -2,6 +2,12 @@
 
 This template provides a minimal setup to get React working in Vite with Tailwind, Docker and Jest
 
+## Aditional features
+
+- Axios Instance
+- Global Context
+- Icons usability
+
 ## Run Locally
 
 To run the project locally you need to install the dependencies
